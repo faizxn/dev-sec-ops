@@ -1,0 +1,40 @@
+
+
+  https://github.com/hahwul/DevSecOps
+
+
+	design (software and business design should consider the security elements) 
+		- secure sdlc
+		- threat model
+		
+	develop (recommended to follow secure coding at development phase)
+		- secure coding
+		- code authentication
+		- respository access control
+		
+	build (when building automated testing is good to eliminate security threats)
+		- iast
+		- sast
+		- secret management
+		- sca
+		
+	test (automatic and manual security testing before deploying to to PROD)
+		- iast
+		- pentest
+		- dast
+		
+	deploy (during deployment, automation of setup/config or security aspects is recommended)
+		- harding
+		- config
+		
+	operate/monitor (at operational stage, it says to continue auditing/monitoring and patching)
+		- rasp (runtime application self protection)
+		- audit
+		- monitor
+		- patch
+		
+    
+    
+    
+		
+		
